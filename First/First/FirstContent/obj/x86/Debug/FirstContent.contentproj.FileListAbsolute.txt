@@ -1,0 +1,2 @@
+C:\Users\Gabriel.Souza\Desktop\FirstWindowsGame_MonoGame\First\First\FirstContent\obj\x86\Debug\FirstContent.contentprojResolveAssemblyReference.cache
+C:\Users\SEEDUC\Desktop\FirstWindowsGame_MonoGame\First\First\FirstContent\obj\x86\Debug\FirstContent.contentprojResolveAssemblyReference.cache
